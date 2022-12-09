@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "sonu",
-      "email": "sonu@gmail.com",
+      "email": "sonu@masaischool.com",
       "password": "sonu@123",
       "role": "admin"
     },
     {
       "id": 2,
       "name": "amol",
-      "email": "amol@gmail.com",
+      "email": "amol@masaischool.com",
       "password": "amol@123",
       "role": "admin"
     },
