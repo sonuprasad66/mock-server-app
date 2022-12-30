@@ -1,132 +1,34 @@
 {
-  "usersdata": [
+  "invoices": [
     {
       "id": 1,
-      "name": "sonu",
-      "email": "sonu@masaischool.com",
-      "password": "sonu@123",
-      "role": "admin"
+      "amount": 2300,
+      "item_type": 0
     },
     {
       "id": 2,
-      "name": "amol",
-      "email": "amol@masaischool.com",
-      "password": "amol@123",
-      "role": "admin"
+      "amount": 23500,
+      "item_type": 1
     },
     {
       "id": 3,
-      "name": "ram",
-      "email": "ram@gmail.com",
-      "password": "ram@123",
-      "role": "user"
+      "amount": 35000,
+      "item_type": 2
     },
     {
-      "id": 4,
-      "name": "mohan",
-      "email": "mohan@gmail.com",
-      "password": "mohan@123",
-      "role": "user"
+      "amount": "100000",
+      "item_type": "3",
+      "id": 4
+    },
+    {
+      "amount": "544",
+      "item_type": "2",
+      "id": 5
+    },
+    {
+      "amount": "66666",
+      "item_type": "0",
+      "id": 6
     }
-  ],
-
-  "jobsdata": [
-    {
-      "id": 1,
-      "company": "Scoot",
-      "position": "Senior Software Engineer",
-      "postedAt": "5h ago",
-      "contract": "Full Time",
-      "location": "United Kingdom"
-    },
-    {
-      "id": 2,
-      "company": "Blogr",
-      "position": "Haskell and PureScript Dev",
-      "postedAt": "20h ago",
-      "contract": "Part Time",
-      "location": "United States"
-    },
-    {
-      "id": 3,
-      "company": "Vector",
-      "position": "Midlevel Back End Engineer",
-      "postedAt": "1d ago",
-      "contract": "Part Time",
-      "location": "Russia"
-    },
-    {
-      "id": 4,
-      "company": "Office Lite",
-      "position": "Senior Application Engineer",
-      "postedAt": "2d ago",
-      "contract": "Full Time",
-      "location": "Japan"
-    },
-    {
-      "id": 5,
-      "company": "Pod",
-      "position": "Remote DevOps Engineer",
-      "postedAt": "2d ago",
-      "contract": "Part Time",
-      "location": "Japan"
-    },
-    {
-      "id": 6,
-      "company": "Creative",
-      "position": "Desktop Support Manager",
-      "postedAt": "4d ago",
-      "contract": "Part Time",
-      "location": "Germany"
-    },
-    {
-      "id": 7,
-      "company": "Pomodoro",
-      "position": "iOS Engineer",
-      "postedAt": "1w ago",
-      "contract": "Full Time",
-      "location": "United States"
-    },
-    {
-      "id": 8,
-      "company": "Maker",
-      "position": "Senior EJB Developer",
-      "postedAt": "1w ago",
-      "contract": "Full Time",
-      "location": "United Kingdom"
-    },
-    {
-      "id": 9,
-      "company": "Coffeeroasters",
-      "position": "Senior Frontend Developer",
-      "postedAt": "1w ago",
-      "contract": "Part Time",
-      "location": "Singapore"
-    },
-    {
-      "id": 10,
-      "company": "Mastercraft",
-      "position": "App & Website Designer",
-      "postedAt": "2w ago",
-      "contract": "Freelance",
-      "location": "United States"
-    },
-    {
-      "id": 11,
-      "company": "Crowdfund",
-      "position": "Fullstack Developer",
-      "postedAt": "1mo ago",
-      "contract": "Part Time",
-      "location": "New Zealand"
-    },
-    {
-      "id": 12,
-      "company": "Typemaster",
-      "position": "Technical Lead Engineer",
-      "postedAt": "1mo ago",
-      "contract": "Part Time",
-      "location": "United Kingdom"
-    }
-  ],
-  "random": []
+  ]
 }
